@@ -1,7 +1,7 @@
 # List Interface
 
 <p align="center">
-Hierarchy of Collection Framework in Java - test
+Hierarchy of Collection Framework in Java
 </p>
 
 - A interface <code>List</code> é uma coleção ordenada que permite a inclusão de elementos duplicados.
